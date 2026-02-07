@@ -41,7 +41,6 @@ This platform contains **two main dashboards**:
 
 1. Clone the repository:
 git clone https://github.com/RukeshPallinti/crypto-hub.git
-cd crypto-market-analytics
 2. Install Dependencies
 pip install -r requirements.txt
 3. Set your **COINMARKET API** Key 
